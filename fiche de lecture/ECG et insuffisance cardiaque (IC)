@@ -1,1 +1,67 @@
+## Fiches de lecture : ECG et insuffisance cardiaque (IC)
 
+---
+
+### Source 1
+
+**Titre de la source :** Electrocardiographic characteristics in patients with heart failure and normal ejection fraction: a systematic review and meta-analysis
+
+**Type de source :**
+- [x] Article scientifique
+- [ ] Source institutionnelle
+- [ ] Article spécialisé / actualité
+- [ ] Newsletter / flux RSS
+
+**Auteur ou organisme et date :** Nikolaidou T., Samuel N.A., Marincowitz C., Fox D.J., Cleland J.G.F., Clark A.L. Publié en ligne le 11 octobre 2019, *Annals of Noninvasive Electrocardiology* 2020, 25(1), e12710.
+
+**Lien de la source :** https://eprints.gla.ac.uk/201234 (DOI : https://doi.org/10.1111/anec.12710)
+
+**Idée principale :** Chez les patients en IC à fraction d'éjection normale, les anomalies ECG sont fréquentes mais très variables d'une étude à l'autre. La fibrillation atriale est plus fréquente qu'en IC à fraction d'éjection réduite, alors que l'allongement du PR, l'hypertrophie ventriculaire gauche, les ondes Q, le bloc de branche gauche et l'allongement du JTc sont plus fréquents dans cette dernière. Un QRS ≥ 120 ms est associé à un moins bon pronostic.
+
+**Éléments de preuve :** 35 études, 32 006 participants. Prévalences : fibrillation atriale 12 à 46 %, PR long 11 à 20 %, hypertrophie ventriculaire gauche 10 à 30 %, ondes Q pathologiques 11 à 18 %, bloc de branche droit 6 à 16 %, bloc de branche gauche 0 à 8 %, JTc long 3 à 4 %. Une analyse poolée montre qu'un QRS ≥ 120 ms (13 à 19 % des patients) est associé à de moins bons résultats.
+
+**Limites ou biais éventuels :** Les auteurs concluent à une forte variabilité des prévalences et demandent d'autres études pour savoir si les anomalies ECG correspondent à des phénotypes différents d'IC. Les résultats dépendent de la qualité et de l'homogénéité des études incluses. Le lien entre QRS large et pronostic repose sur une analyse poolée d'études observationnelles. Limites de ma lecture : seule la notice et le résumé ont été consultés, pas le PDF complet.
+
+---
+
+### Source 2
+
+**Titre de la source :** Prevalence and long-term prognostic implications of prolonged QRS duration in left ventricular hypertrophy: a population-based observational cohort study
+
+**Type de source :**
+- [x] Article scientifique
+- [ ] Source institutionnelle
+- [ ] Article spécialisé / actualité
+- [ ] Newsletter / flux RSS
+
+**Auteur ou organisme et date :** Rankinen J., Haataja P., Lyytikäinen L.-P., Huhtala H., Lehtimäki T., Kähönen M., Eskola M., Tuohinen S., Pérez-Riera A.R., Jula A., Rissanen H., Nikus K., Hernesniemi J. (Université de Tampere, Finlande). *BMJ Open*, 2022, 12(2), e053477.
+
+**Lien de la source :** https://bmjopen.bmj.com/content/12/2/e053477
+
+**Idée principale :** Chez les personnes dont l'ECG montre une hypertrophie ventriculaire gauche, le risque de mortalité et d'IC nouvelle augmente avec la durée du QRS, surtout à partir de 100 ms. Même avec un QRS normal, l'hypertrophie ventriculaire gauche s'accompagne d'un risque d'IC plus élevé que chez les personnes sans hypertrophie.
+
+**Éléments de preuve :** 6 033 adultes de plus de 30 ans (enquête nationale finlandaise Health 2000), suivis en médiane 15,9 ans. Hypertrophie ventriculaire gauche à l'ECG chez 1 337 personnes (22,2 %). Chez elles, par rapport à un QRS < 100 ms : mortalité cardiovasculaire HR 1,38 (QRS 100 à 109 ms) et 1,74 (QRS ≥ 110 ms) ; IC nouvelle HR 2,18 et 3,39. Chez les personnes sans hypertrophie, un QRS allongé n'augmentait pas le risque de mortalité ni d'IC.
+
+**Limites ou biais éventuels :** Les auteurs signalent l'absence de données d'imagerie, donc une maladie cardiaque silencieuse n'est pas exclue. Étude observationnelle : elle montre des associations, pas des causes. Population finlandaise majoritairement d'origine européenne. Les blocs de branche, le bloc fasciculaire antérieur gauche, les stimulateurs et le syndrome de Wolff-Parkinson-White ont été exclus. L'IC est identifiée par des registres. Financement associatif, aucun conflit d'intérêts déclaré.
+
+---
+
+### Source 3
+
+**Titre de la source :** The prognostic implications of a fragmented QRS pattern in patients diagnosed with heart failure
+
+**Type de source :**
+- [x] Article scientifique
+- [ ] Source institutionnelle
+- [ ] Article spécialisé / actualité
+- [ ] Newsletter / flux RSS
+
+**Auteur ou organisme et date :** Demirkiran A., Yılmaz M., Şit Ö., Atıcı A., Barman H.A. (service de cardiologie, Kafkas University Training and Research Hospital, Kars, Turquie). *The European Research Journal*, 2023, 9(2), 428-436.
+
+**Lien de la source :** https://earsiv.medeniyet.edu.tr/items/2b9094a5-5258-483c-b0a2-0df28db4f227 (DOI : https://doi.org/10.18621/eurj.1253438)
+
+**Idée principale :** La présence d'un QRS fragmenté (fQRS) sur l'ECG est associée de façon indépendante à plus de mortalité et de réhospitalisations chez les patients en IC. Elle pourrait donc servir d'indicateur de mauvais pronostic.
+
+**Éléments de preuve :** 238 patients avec une fraction d'éjection ventriculaire gauche < 35 %, suivis 5 ans. Mortalité de 32 % avec fQRS contre 19 % sans (p = 0,028). Réhospitalisation de 60 % contre 35 % (p < 0,001). La régression logistique multivariée confirme l'association indépendante (p = 0,02 et p < 0,001).
+
+**Limites ou biais éventuels :** Effectif modeste, et uniquement des patients à fraction d'éjection basse : les résultats ne valent pas pour les autres formes d'IC. Les patients avec fQRS avaient plus de maladie coronarienne (76 % contre 62 %) et de fibrillation atriale (29 % contre 17 %), deux facteurs de confusion possibles. Limites de ma lecture : seul le résumé était accessible, donc le caractère rétrospectif et le nombre de centres ne sont pas confirmés.
